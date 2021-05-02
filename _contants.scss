@@ -1,0 +1,7 @@
+$bckgrndClr:#97d279;
+$padding: 20px;
+
+@mixin text {
+  max-width: 700px;
+  text-align: center;
+  padding: $padding;}
